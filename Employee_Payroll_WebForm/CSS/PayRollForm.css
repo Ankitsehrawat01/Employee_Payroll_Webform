@@ -1,0 +1,20 @@
+﻿@import url('payrollform.css');
+body {
+
+}
+.Mainbox {
+    position: relative;
+    /*left: 500px;*/
+    
+}
+.formbox {
+    height: 30vh;
+    width: 30vh;
+    align-items: center;
+    border: 1px solid black
+}
+.images {
+    display: flex;
+    flex-direction: row;
+    border: 1px solid black
+}
